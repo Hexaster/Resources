@@ -8,3 +8,7 @@
 [Design Patterns by Refactoring.guru](https://refactoring.guru/design-patterns)
 
 [Digital Design and Computer Architecture](https://dl.acm.org/doi/pdf/10.5555/2815529)
+
+[Computer Vision: Algorithms and Applications, 2nd ed.](https://szeliski.org/Book/)
+
+[Multiple View Geometry in Computer Vision Second Edition](https://www.robots.ox.ac.uk/~vgg/hzbook/)
